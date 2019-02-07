@@ -1,0 +1,7 @@
+C:\Users\krisb\source\repos\GoblinParty\GoblinParty\obj\Debug\GoblinParty.csprojAssemblyReference.cache
+C:\Users\krisb\source\repos\GoblinParty\GoblinParty\obj\Debug\GoblinParty.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\GoblinParty\GoblinParty\bin\Debug\GoblinParty.exe.config
+C:\Users\krisb\source\repos\GoblinParty\GoblinParty\bin\Debug\GoblinParty.exe
+C:\Users\krisb\source\repos\GoblinParty\GoblinParty\bin\Debug\GoblinParty.pdb
+C:\Users\krisb\source\repos\GoblinParty\GoblinParty\obj\Debug\GoblinParty.exe
+C:\Users\krisb\source\repos\GoblinParty\GoblinParty\obj\Debug\GoblinParty.pdb
